@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-void TOH(int n, char A, char B, char C)         /* THIS PROBLEM HELPS US TO SOLVE THE TOWER OF HANOI PROBLEM  */
+void TOH(int n, char A, char B, char C) /* THIS PROBLEM HELPS US TO SOLVE THE TOWER OF HANOI PROBLEM */
 {
     if (n == 1)
     {
